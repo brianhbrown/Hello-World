@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+user_name = input("What is your name?") #introductions
+user_age = int("What is your age?")
+print("Hello", user_name)
+print("My name is Brian and I am 32.")
